@@ -1,0 +1,25 @@
+{
+  "name": "external-packages-clock-app",
+  "version": "1.0.0",
+  "description": "This project is a simple webpage that displays the current time and date for a selected timezone. Users can open a modal to choose their preferred timezone and see the updated time and date accordingly. Additionally, the webpage features a random quote fetched from the Quotable API and dynamically changes its background based on the time of day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "denis pianelli",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "micromodal": "^0.4.10"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denis-pianelli/external-packages-clock-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/denis-pianelli/external-packages-clock-app/issues"
+  },
+  "homepage": "https://github.com/denis-pianelli/external-packages-clock-app#readme"
+}
